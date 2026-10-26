@@ -42,3 +42,10 @@ export TV_HOST=192.168.0.105
 tools/venv/bin/python -I tools/tv.py --probe
 tools/disable.sh examples/xiaomi-mitv-mssp1/debloat.txt
 TV_HOST=192.168.0.105 launcher/build-and-install.sh
+  "tv": "Xiaomi MiTV-MSSP1 (nino), firmware PI.5925",
+  "os": "Android TV 9",
+  "brand": "Xiaomi",
+  "notes": "Eight Xiaomi telemetry/content and Google recommendation packages; replacement Home reboot-checked; updater, Assistant, Chromecast, USB media and TV input services kept enabled"
+}
+  "notes": "Eight Xiaomi telemetry/content and Google recommendation packages, plus verified extras (report senders, partner auto-installer, both heavy screensavers with a reassign-first warning, TV Manager, restorable Google preinstalls, Xiaomi media/accessibility leftovers); replacement Home reboot-checked; updater, Assistant, Chromecast, USB media and TV input services kept enabled"
+}
