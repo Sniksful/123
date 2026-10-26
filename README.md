@@ -49,3 +49,4 @@ TV_HOST=192.168.0.105 launcher/build-and-install.sh
 }
   "notes": "Eight Xiaomi telemetry/content and Google recommendation packages, plus verified extras (report senders, partner auto-installer, both heavy screensavers with a reassign-first warning, TV Manager, restorable Google preinstalls, Xiaomi media/accessibility leftovers); replacement Home reboot-checked; updater, Assistant, Chromecast, USB media and TV input services kept enabled"
 }
+
